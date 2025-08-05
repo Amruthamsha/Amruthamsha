@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **Voice-based recommendation systems and an AI chess engine**
+- 🔭 Currently working on: **Facial Emotion Recognition System and Voice-based recommendation systems and an AI chess engine**
 - 🔬 Former ML Intern @ **Centre for Nano and Soft Matter Sciences (CeNS)**
 - 📖 Published/Upcoming works on **Quantum AI, Healthcare AI, and FER**
 - 🌱 Learning: **Quantum Machine Learning & Advanced Algorithms**
