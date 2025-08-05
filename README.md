@@ -9,6 +9,14 @@
 
 ## 🧠 About Me
 
+<p align="right">
+  <img src="assets/logos/ieee.png" alt="IEEE" height="36"/>
+  <img src="assets/logos/acm.png" alt="ACM" height="36"/>
+  <img src="assets/logos/gdg.png" alt="GDG" height="36"/>
+</p>
+
+
+
 - 🔭 Currently working on: **Facial Emotion Recognition System and Voice-based recommendation systems and an AI chess engine**
 - 🔬 Former ML Intern @ **Centre for Nano and Soft Matter Sciences (CeNS)**
 - 📖 Published/Upcoming works on **Quantum AI, Healthcare AI, and FER**
